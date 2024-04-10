@@ -1,0 +1,33 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6F8-333E
+
+ Directory of C:\Program Files
+
+09/20/2023  08:29 PM    <DIR>          .
+06/17/2023  07:02 PM    <DIR>          Adobe
+06/17/2023  07:00 PM    <DIR>          Common Files
+08/17/2023  10:37 AM    <DIR>          Cypress
+06/19/2023  04:30 PM    <DIR>          DeepL
+09/13/2023  04:03 PM    <DIR>          Denuvo Anti-Cheat
+07/01/2023  01:22 PM    <DIR>          Epic Games
+06/17/2023  05:31 PM    <DIR>          ESET
+06/17/2023  05:23 PM    <DIR>          Google
+09/01/2023  09:11 AM    <DIR>          Internet Explorer
+06/23/2023  09:03 AM    <DIR>          Microsoft
+09/16/2023  07:33 PM    <DIR>          Microsoft Office
+06/17/2023  05:45 PM    <DIR>          Microsoft Office 15
+10/02/2023  09:09 AM    <DIR>          Microsoft OneDrive
+09/06/2023  02:59 PM    <DIR>          Microsoft Update Health Tools
+05/07/2022  07:24 AM    <DIR>          ModifiableWindowsApps
+06/19/2023  09:57 AM    <DIR>          Notepad++
+06/18/2023  09:58 PM    <DIR>          NVIDIA Corporation
+06/21/2023  05:43 PM    <DIR>          Python311
+09/20/2023  08:29 PM    <DIR>          VideoLAN
+09/01/2023  09:11 AM    <DIR>          Windows Defender
+05/05/2023  03:00 PM    <DIR>          Windows Mail
+09/01/2023  09:11 AM    <DIR>          Windows Media Player
+05/07/2022  08:01 AM    <DIR>          Windows NT
+09/01/2023  09:11 AM    <DIR>          Windows Photo Viewer
+05/07/2022  07:42 AM    <DIR>          WindowsPowerShell
+               0 File(s)              0 bytes
+              26 Dir(s)  111,920,275,456 bytes free
